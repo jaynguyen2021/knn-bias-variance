@@ -13,11 +13,11 @@ Mini project analyzing training/test error and decision boundaries using R.
 - **LaTeX** for report formatting
 
 ## Files
-- `mini_project_1.Rmd` – full code and report
-- `mini_project_1.pdf` – compiled writeup with results
+- `mini_project_1.Rmd` – R Markdown file (full code and report generation)
+- `mini_project_1.pdf` – Final compiled report with results
+- `Mini_Project_1_Latex.pdf` – Report formatted in LaTeX
 - `1-training_data.csv`, `1-test_data.csv` – sample datasets
-- `error_plot.jpeg`, `decision_boundary.jpeg` – key visualizations
-
+- `error_plot.jpeg`, `decision_boundary.jpeg` – visualizations
 
 ## Results
 - Optimal K found: **116**  
